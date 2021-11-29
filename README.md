@@ -12,3 +12,5 @@
 [Simple tasks](https://github.com/Valyaevgeorgiy/Web_apps_dev/tree/main/Simple%20tasks) — применение конструкций из JavaScript в HTML коде.
 
 [Interesting tasks](https://github.com/Valyaevgeorgiy/Web_apps_dev/tree/main/Interesting%20tasks) — выполнение интересных кейсов с более масштабным применение скриптов на JS.
+
+[Massive_works](https://github.com/Valyaevgeorgiy/Web_apps_dev/tree/main/Work_massive) — работа с числовыми данными в Javascript при помощи массивов.
