@@ -15,5 +15,5 @@
 
 [Massive_works](https://github.com/Valyaevgeorgiy/Web_apps_dev/tree/main/Work_massive) — работа с числовыми данными в Javascript при помощи массивов.
 
-[Functions_classes](https://github.com/Valyaevgeorgiy/Web_apps_dev/tree/main/Functions_classes) — взаимодействие с классами и функциями в JavaScript (P.S. тут также есть вариант демонстрации хода реального времени в Российской Федерации).
+[Functions_classes](https://github.com/Valyaevgeorgiy/Web_apps_dev/tree/main/Functions_classes) — взаимодействие с классами и функциями в JavaScript (P.S. тут также есть вариант [демонстрации хода реального Московского времени в Российской Федерации](https://github.com/Valyaevgeorgiy/Web_apps_dev/blob/main/Functions_classes/class_date_format.js)).
 
