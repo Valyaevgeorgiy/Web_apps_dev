@@ -14,3 +14,6 @@
 [Interesting tasks](https://github.com/Valyaevgeorgiy/Web_apps_dev/tree/main/Interesting%20tasks) — выполнение интересных кейсов с более масштабным применение скриптов на JS.
 
 [Massive_works](https://github.com/Valyaevgeorgiy/Web_apps_dev/tree/main/Work_massive) — работа с числовыми данными в Javascript при помощи массивов.
+
+[Functions_classes](https://github.com/Valyaevgeorgiy/Web_apps_dev/tree/main/Functions_classes) — взаимодействие с классами и функциями в JavaScript (P.S. тут также есть вариант демонстрации хода реального времени в Российской Федерации).
+
