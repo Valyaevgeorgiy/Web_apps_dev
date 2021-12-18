@@ -24,3 +24,5 @@
 [Functions_classes](https://github.com/Valyaevgeorgiy/Web_apps_dev/tree/main/Functions_classes) — взаимодействие с классами и функциями в JavaScript (P.S. тут также есть [JS вариант](https://github.com/Valyaevgeorgiy/Web_apps_dev/blob/main/Functions_classes/class_date_format.js) демонстрации хода реального Московского времени rightnow).
 
 [Arrow_functions](https://github.com/Valyaevgeorgiy/Web_apps_dev/tree/main/Arrow_functions) — плотная работа с интересной и очень полезной структурой данных в JavaScript — стрелочными функциями.
+
+[High_class_functions](https://github.com/Valyaevgeorgiy/Web_apps_dev/tree/main/High_class_functions) — взаимодействие с функциями высшего порядка и написание своей собственной функции высшего порядка.
