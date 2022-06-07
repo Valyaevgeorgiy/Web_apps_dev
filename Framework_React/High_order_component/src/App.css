@@ -1,0 +1,72 @@
+.App {
+  text-align: center;
+}
+
+.game-img {
+  border-radius: 25px;
+  border: 5px solid #EDEEED;
+  box-shadow: 0 0 0 15px rgba(0,0,0,0.03);
+}
+
+.tooltip {
+  font-family: 'Comic Sans MS';
+  width: 250px;
+  margin-left: 20px;
+  background-color: #D3D3D3;
+  padding: 10px;
+  border-radius: 25px;
+  font-size: 12px;
+}
+
+.mark {
+  background-color: black;
+  color: white;
+  font-size: 26px;
+  border-radius: 50%;
+  text-align: center;
+  cursor: default;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+
+.mark--hover {
+  background-color: #D3D3D3;
+  color: black;
+  border-radius: 25px;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
